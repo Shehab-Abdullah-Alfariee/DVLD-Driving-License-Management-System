@@ -102,49 +102,50 @@ system, including:
 
 ### 🖥️ Login Interface
 
-<img width="1132" height="654" alt="image" src="https://github.com/user-attachments/assets/61e4b9e8-ce9f-4415-843a-c46b0172e61c" />
+<img width="1139" height="663" alt="image" src="https://github.com/user-attachments/assets/1dc9f19f-c282-4e72-a1c7-d4af832265d3" />
+
 
 ```
 ```
 ### 🖥️ Main Interface
 
-<img width="1907" height="1024" alt="image" src="https://github.com/user-attachments/assets/64987649-fd68-4f6c-ae57-338a6d378424" />
+<img width="1907" height="1024" alt="لقطة شاشة 2026-10-10 110342" src="https://github.com/user-attachments/assets/fc837bb8-bc51-4f5d-845d-955bcd41edfd" />
 
 ```
 ```
 ### 👥 People Management
 
-<img width="1901" height="965" alt="image" src="https://github.com/user-attachments/assets/4c6b3e38-de3e-4aea-8481-3d662595b2a5" />
+<img width="1901" height="965" alt="لقطة شاشة 2026-10-10 110421" src="https://github.com/user-attachments/assets/26bdbfd9-46bc-4e98-b990-9aa8b2f9c2db" />
 
 ```
 ```
 ### 🔐 User Management
 
-<img width="1222" height="974" alt="image" src="https://github.com/user-attachments/assets/20521c6f-85fc-4970-9319-1a4a215ef070" />
+<img width="1222" height="974" alt="لقطة شاشة 2026-10-10 110451" src="https://github.com/user-attachments/assets/c6467d38-ad50-4a46-9073-2953eeeeb95b" />
 
 ```
 ```
 ### 📝 Driving License Applications
 
-<img width="1788" height="976" alt="image" src="https://github.com/user-attachments/assets/069edb9a-94a7-4142-90ca-fcaf75efd89e" />
+<img width="1788" height="976" alt="لقطة شاشة 2026-10-10 110523" src="https://github.com/user-attachments/assets/cb2e655e-f9fb-45be-8bb0-7f21abe50d1c" />
 
 ```
 ```
 ### 🧪 Add International License Applications
 
-<img width="1116" height="978" alt="image" src="https://github.com/user-attachments/assets/a422fcde-a70d-4419-8c94-e1274d8e8f07" />
+<img width="1116" height="978" alt="لقطة شاشة 2026-10-10 110621" src="https://github.com/user-attachments/assets/c0323eaa-0cb8-4569-9f6e-758dfdaec5ef" />
 
 ```
 ```
 ### 🪪 License Information
 
-<img width="1091" height="697" alt="image" src="https://github.com/user-attachments/assets/d1b7fa63-3e81-4248-8b69-92fd49232d8a" />
+<img width="1091" height="697" alt="لقطة شاشة 2026-10-10 111254" src="https://github.com/user-attachments/assets/88e3c401-d49a-4965-a671-777a51975de1" />
 
 ```
 ```
 ### 🪪 License History
 
-<img width="1341" height="1019" alt="image" src="https://github.com/user-attachments/assets/11d6b2b2-71c8-408a-91ad-d1b0e3b24e45" />
+<img width="1341" height="1019" alt="لقطة شاشة 2026-10-10 111632" src="https://github.com/user-attachments/assets/df79ecd8-3d8f-4f93-9d7d-9622e089b48e" />
 
 ```
 ------------------------------------------------------------------------
