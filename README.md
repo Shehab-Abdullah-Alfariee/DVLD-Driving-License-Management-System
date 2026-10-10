@@ -98,7 +98,7 @@ system, including:
   
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
+## 📸 Some Of Screenshots
 
 ### 🖥️ Login Interface
 
