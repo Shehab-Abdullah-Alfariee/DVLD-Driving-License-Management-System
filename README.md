@@ -2,10 +2,20 @@
 
 A desktop-based **Driving License Management System (DVLD)** developed
 with **C# and Windows Forms**, backed by a relational database in **SQL
-Server**. The system organizes common driving-license workflows,
+Server**, and 3-Tier Architecture. The system organizes common driving-license workflows,
 including people and user management, license applications, test
 appointments, issuing and renewing licenses, and managing detained
 licenses.
+
+------------------------------------------------------------------------
+
+## 🏗️ Architecture & Project Structure
+
+The solution is strictly decoupled into 3 main layers to ensure maintainability, scalability, and code separation:
+
+* **DVLD (Presentation Layer):** Windows Forms UI handling user interactions, validation, and visual components.
+* **DVLD_Buisness (Business Logic Layer):** Encapsulates core business rules, validation logic, and workflows.
+* **DVLD_DataAccess (Data Access Layer):** Handles direct database operations, ADO.NET connectivity, parameterized queries, and stored procedures.
 
 ------------------------------------------------------------------------
 
