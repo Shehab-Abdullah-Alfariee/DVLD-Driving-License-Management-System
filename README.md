@@ -108,7 +108,7 @@ system, including:
   
 ------------------------------------------------------------------------
 
-## 📸 Some Of Screenshots
+## 📸 Some Of Interfaces
 
 ### 🖥️ Login Interface
 
